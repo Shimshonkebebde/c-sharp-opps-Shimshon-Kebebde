@@ -11,6 +11,7 @@ namespace c_sharp_opps_Shimshon_Kebebde.BankApp
         public static void MainEntry()
         {
             Console.WriteLine("Bank App");
+            TestAccount.Test1();
         }
     }
 }
